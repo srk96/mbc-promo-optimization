@@ -8,12 +8,6 @@ This project focuses on optimizing the placement of promotional content on MBC G
 ## Objective
 The primary objective is to strategically place seven different promos into TV grid slots, taking into consideration factors like promo priority, target audience compatibility, and airtime constraints.
 
-## Repository Structure
-- `data/`: This directory contains the datasets used in the analysis.
-- `notebooks/`: Jupyter notebooks with all the analysis, visualizations, and code.
-- `docs/`: Any additional documentation related to the project.
-- `src/`: Source code for any additional scripts or modules written for this project.
-
 ## Data Description
 The project utilizes two main datasets:
 1. `assignment_dataset.csv` - Contains data about TV slots including time intervals, segments, and viewer metrics.
